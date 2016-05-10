@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VU Application", "VU Application\VU Application.csproj", "{F5B8D57D-B3F4-4776-9365-E2DCFB97A433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meter Control", "Meter Control\Meter Control.csproj", "{8EB99C5D-E2FC-4567-9320-BB8913D3FAEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testMeter", "testMeter\testMeter.csproj", "{3E61A2E2-2C57-4697-87A5-A121A1370C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testStatus", "testStatus\testStatus.csproj", "{7566CDB2-2BBA-428A-BA7D-C0EA1D1C5133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nAudioPlaybackStarter", "nAudioPlaybackStarter\nAudioPlaybackStarter.csproj", "{2061D958-0712-4A79-90D6-82B0255D21C5}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B8D57D-B3F4-4776-9365-E2DCFB97A433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B8D57D-B3F4-4776-9365-E2DCFB97A433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B8D57D-B3F4-4776-9365-E2DCFB97A433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B8D57D-B3F4-4776-9365-E2DCFB97A433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB99C5D-E2FC-4567-9320-BB8913D3FAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB99C5D-E2FC-4567-9320-BB8913D3FAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB99C5D-E2FC-4567-9320-BB8913D3FAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB99C5D-E2FC-4567-9320-BB8913D3FAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E61A2E2-2C57-4697-87A5-A121A1370C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E61A2E2-2C57-4697-87A5-A121A1370C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E61A2E2-2C57-4697-87A5-A121A1370C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E61A2E2-2C57-4697-87A5-A121A1370C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7566CDB2-2BBA-428A-BA7D-C0EA1D1C5133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7566CDB2-2BBA-428A-BA7D-C0EA1D1C5133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7566CDB2-2BBA-428A-BA7D-C0EA1D1C5133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7566CDB2-2BBA-428A-BA7D-C0EA1D1C5133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2061D958-0712-4A79-90D6-82B0255D21C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2061D958-0712-4A79-90D6-82B0255D21C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2061D958-0712-4A79-90D6-82B0255D21C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2061D958-0712-4A79-90D6-82B0255D21C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+E:\CMPE2800\VU Meter\VU Application\bin\Debug\VU Application.exe.config
+E:\CMPE2800\VU Meter\VU Application\bin\Debug\VU Application.exe
+E:\CMPE2800\VU Meter\VU Application\bin\Debug\VU Application.pdb
+E:\CMPE2800\VU Meter\VU Application\bin\Debug\testMeter.dll
+E:\CMPE2800\VU Meter\VU Application\bin\Debug\testMeter.pdb
+E:\CMPE2800\VU Meter\VU Application\obj\Debug\VU Application.csprojResolveAssemblyReference.cache
+E:\CMPE2800\VU Meter\VU Application\obj\Debug\VU_Application.Form1.resources
+E:\CMPE2800\VU Meter\VU Application\obj\Debug\VU_Application.Properties.Resources.resources
+E:\CMPE2800\VU Meter\VU Application\obj\Debug\VU Application.csproj.GenerateResource.Cache
+E:\CMPE2800\VU Meter\VU Application\obj\Debug\VU Application.exe
+E:\CMPE2800\VU Meter\VU Application\obj\Debug\VU Application.pdb
+E:\CMPE2800\VU Meter\VU Application\bin\Debug\testStatus.dll
+E:\CMPE2800\VU Meter\VU Application\bin\Debug\testStatus.pdb
