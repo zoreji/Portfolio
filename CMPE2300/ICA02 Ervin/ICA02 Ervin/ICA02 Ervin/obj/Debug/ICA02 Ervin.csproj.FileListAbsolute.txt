@@ -1,0 +1,12 @@
+C:\Users\ehernandez5\Desktop\CMPE2300\ICA02 Ervin\ICA02 Ervin\bin\Debug\ICA02 Ervin.exe.config
+C:\Users\ehernandez5\Desktop\Project Subversion\ICA02 Ervin\ICA02 Ervin\bin\Debug\ICA02 Ervin.exe.config
+C:\Users\ehernandez5\Desktop\Project Subversion\ICA02 Ervin\ICA02 Ervin\bin\Debug\ICA02 Ervin.exe
+C:\Users\ehernandez5\Desktop\Project Subversion\ICA02 Ervin\ICA02 Ervin\bin\Debug\ICA02 Ervin.pdb
+C:\Users\ehernandez5\Desktop\Project Subversion\ICA02 Ervin\ICA02 Ervin\bin\Debug\GDIDrawer.dll
+C:\Users\ehernandez5\Desktop\Project Subversion\ICA02 Ervin\ICA02 Ervin\bin\Debug\GDIDrawer.xml
+C:\Users\ehernandez5\Desktop\Project Subversion\ICA02 Ervin\ICA02 Ervin\obj\Debug\ICA02 Ervin.csprojResolveAssemblyReference.cache
+C:\Users\ehernandez5\Desktop\Project Subversion\ICA02 Ervin\ICA02 Ervin\obj\Debug\ICA02_Ervin.Form1.resources
+C:\Users\ehernandez5\Desktop\Project Subversion\ICA02 Ervin\ICA02 Ervin\obj\Debug\ICA02_Ervin.Properties.Resources.resources
+C:\Users\ehernandez5\Desktop\Project Subversion\ICA02 Ervin\ICA02 Ervin\obj\Debug\ICA02 Ervin.csproj.GenerateResource.Cache
+C:\Users\ehernandez5\Desktop\Project Subversion\ICA02 Ervin\ICA02 Ervin\obj\Debug\ICA02 Ervin.exe
+C:\Users\ehernandez5\Desktop\Project Subversion\ICA02 Ervin\ICA02 Ervin\obj\Debug\ICA02 Ervin.pdb
