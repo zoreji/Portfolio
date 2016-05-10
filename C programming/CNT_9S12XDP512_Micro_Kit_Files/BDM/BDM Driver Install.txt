@@ -1,0 +1,58 @@
+Oct, 2013
+
+Windows 8.1 starts here, Windows 7 starts below
+
+To setup the USB BDM on Windows 8.1:
+
+Copy the "USB_BDM" folder to the desktop.
+
+Press the "Win + C" keyboard combination to bring up the Charms Bar, then click on the Settings Charm. 
+
+Click on the "Change PC settings" link.
+
+Then click on the "Update and Recovery" option on the left hand side.
+
+Click on the "Recovery" option on the left hand side.
+
+Once selected, you will see an "Advanced startup" section appear on the right hand side. You will need to click on the “Restart now” button.
+
+Once your Computer has rebooted you will need to choose the "Troubleshoot" option.
+
+Click "Advanced options" 
+
+Then "Startup Settings".
+
+Since we are modifying boot time configuration settings, you will need to restart your computer one last time.
+
+Finally, you will be given a list of startup settings that you can change. The one we are looking for is “Disable driver signature enforcement”. To choose the setting, you will need to press the 7 key.
+
+The computer will now restart into Windows an you can begin installing the driver.
+
+
+
+Windows 7 begins here, Windows 8.1 continues here.
+
+
+
+Run the "USBDM_4_10_6_105_Win" from the desktop, 
+
+Next go to device manager, right click "unknown device",
+
+Choose to manually install the drivers,
+
+Browse to the "drivers" folder on the desktop and click "ok",
+
+This should start the install.  You should now have BDM drivers installed.
+
+Open Code Warrior 5.1
+
+Select “MC9S12XDP512” and “TBDML”  
+
+Good to go! 
+
+if drivers = not installed see Troy
+
+Troy = WB216A
+
+End;
+
