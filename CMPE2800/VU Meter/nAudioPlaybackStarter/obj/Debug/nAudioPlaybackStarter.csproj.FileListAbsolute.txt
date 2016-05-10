@@ -1,0 +1,18 @@
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\bin\Debug\nAudioPlaybackStarter.exe.config
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\bin\Debug\nAudioPlaybackStarter.exe
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\bin\Debug\nAudioPlaybackStarter.pdb
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\bin\Debug\NAudio.dll
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\bin\Debug\NAudio.WindowsMediaFormat.dll
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\bin\Debug\testMeter.dll
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\bin\Debug\testStatus.dll
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\bin\Debug\testMeter.pdb
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\bin\Debug\testStatus.pdb
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\bin\Debug\NAudio.xml
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\obj\Debug\nAudioPlaybackStarter.csprojResolveAssemblyReference.cache
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\obj\Debug\nAudioPlaybackStarter.Form1.resources
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\obj\Debug\nAudioPlaybackStarter.Properties.Resources.resources
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\obj\Debug\nAudioPlaybackStarter.csproj.GenerateResource.Cache
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\obj\Debug\nAudioPlaybackStarter.exe
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\obj\Debug\nAudioPlaybackStarter.pdb
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\bin\Debug\Meter Control.dll
+E:\CMPE2800\VU Meter\nAudioPlaybackStarter\bin\Debug\Meter Control.pdb
