@@ -1,0 +1,13 @@
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Client\bin\Debug\Client.exe.config
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Client\bin\Debug\Client.exe
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Client\bin\Debug\Client.pdb
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Client\bin\Debug\HiLoTransport_2016jan.dll
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Client\obj\Debug\Client._fmClient.resources
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Client\obj\Debug\Client.exe
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Client\obj\Debug\Client.pdb
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\Project\HighLow\Client\bin\Debug\Client.exe.config
+G:\Project\HighLow\Client\obj\Debug\Client.exe
+G:\Project\HighLow\Client\obj\Debug\Client.pdb

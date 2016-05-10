@@ -1,0 +1,13 @@
+E:\Projects\MDClient\bin\Debug\MDClient.exe.config
+E:\Projects\MDClient\bin\Debug\MDClient.exe
+E:\Projects\MDClient\bin\Debug\MDClient.pdb
+E:\Projects\MDClient\bin\Debug\GenericSocket_ica2_D.dll
+E:\Projects\MDClient\bin\Debug\mdtypes.dll
+E:\Projects\MDClient\bin\Debug\GenericSocket_ica2_D.pdb
+E:\Projects\MDClient\obj\Debug\MDClient.csprojResolveAssemblyReference.cache
+E:\Projects\MDClient\obj\Debug\MDClient.Connect.resources
+E:\Projects\MDClient\obj\Debug\MDClient.Form1.resources
+E:\Projects\MDClient\obj\Debug\MDClient.Properties.Resources.resources
+E:\Projects\MDClient\obj\Debug\MDClient.csproj.GenerateResource.Cache
+E:\Projects\MDClient\obj\Debug\MDClient.exe
+E:\Projects\MDClient\obj\Debug\MDClient.pdb

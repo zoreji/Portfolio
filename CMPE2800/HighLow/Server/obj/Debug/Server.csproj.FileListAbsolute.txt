@@ -1,0 +1,10 @@
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Server\bin\Debug\Server.exe.config
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Server\bin\Debug\Server.exe
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Server\bin\Debug\Server.pdb
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Server\bin\Debug\HiLoTransport_2016jan.dll
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Server\obj\Debug\Server._fmServer.resources
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Server\obj\Debug\Server.exe
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Server\obj\Debug\Server.pdb
+C:\Users\ehernandez5\Desktop\ICA01\HighLow\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
