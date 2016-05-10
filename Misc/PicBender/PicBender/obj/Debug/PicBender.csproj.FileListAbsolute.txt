@@ -1,0 +1,9 @@
+E:\Projects\PicBender\PicBender\bin\Debug\PicBender.exe.config
+E:\Projects\PicBender\PicBender\bin\Debug\PicBender.exe
+E:\Projects\PicBender\PicBender\bin\Debug\PicBender.pdb
+E:\Projects\PicBender\PicBender\obj\Debug\PicBender.csprojResolveAssemblyReference.cache
+E:\Projects\PicBender\PicBender\obj\Debug\PicBender.PicBen_Main.resources
+E:\Projects\PicBender\PicBender\obj\Debug\PicBender.Properties.Resources.resources
+E:\Projects\PicBender\PicBender\obj\Debug\PicBender.csproj.GenerateResource.Cache
+E:\Projects\PicBender\PicBender\obj\Debug\PicBender.exe
+E:\Projects\PicBender\PicBender\obj\Debug\PicBender.pdb
