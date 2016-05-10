@@ -1,0 +1,9 @@
+E:\CMPE2800\ErvinLab01\ErvinLab01\bin\Debug\ErvinLab01.exe.config
+E:\CMPE2800\ErvinLab01\ErvinLab01\bin\Debug\ErvinLab01.exe
+E:\CMPE2800\ErvinLab01\ErvinLab01\bin\Debug\ErvinLab01.pdb
+E:\CMPE2800\ErvinLab01\ErvinLab01\obj\Debug\ErvinLab01.csprojResolveAssemblyReference.cache
+E:\CMPE2800\ErvinLab01\ErvinLab01\obj\Debug\ErvinLab01._fmFileStats.resources
+E:\CMPE2800\ErvinLab01\ErvinLab01\obj\Debug\ErvinLab01.Properties.Resources.resources
+E:\CMPE2800\ErvinLab01\ErvinLab01\obj\Debug\ErvinLab01.csproj.GenerateResource.Cache
+E:\CMPE2800\ErvinLab01\ErvinLab01\obj\Debug\ErvinLab01.exe
+E:\CMPE2800\ErvinLab01\ErvinLab01\obj\Debug\ErvinLab01.pdb

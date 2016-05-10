@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErvinLab2", "ErvinLab2\ErvinLab2.csproj", "{12D221B9-2E7F-47F0-BBFC-04F1A4061163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSocket_ica2_D", "GenericSocket_ica2_D\GenericSocket_ica2_D.csproj", "{8B9B46F1-EECE-4DE7-B065-45926AA39E3B}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D221B9-2E7F-47F0-BBFC-04F1A4061163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D221B9-2E7F-47F0-BBFC-04F1A4061163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D221B9-2E7F-47F0-BBFC-04F1A4061163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D221B9-2E7F-47F0-BBFC-04F1A4061163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9B46F1-EECE-4DE7-B065-45926AA39E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9B46F1-EECE-4DE7-B065-45926AA39E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9B46F1-EECE-4DE7-B065-45926AA39E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9B46F1-EECE-4DE7-B065-45926AA39E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

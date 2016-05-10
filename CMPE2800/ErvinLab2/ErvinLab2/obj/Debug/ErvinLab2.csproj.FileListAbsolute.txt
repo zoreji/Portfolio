@@ -1,0 +1,11 @@
+E:\CMPE2800\ErvinLab2\ErvinLab2\bin\Debug\ErvinLab2.exe.config
+E:\CMPE2800\ErvinLab2\ErvinLab2\bin\Debug\ErvinLab2.exe
+E:\CMPE2800\ErvinLab2\ErvinLab2\bin\Debug\ErvinLab2.pdb
+E:\CMPE2800\ErvinLab2\ErvinLab2\bin\Debug\GenericSocket_ica2_D.dll
+E:\CMPE2800\ErvinLab2\ErvinLab2\bin\Debug\mdtypes.dll
+E:\CMPE2800\ErvinLab2\ErvinLab2\obj\Debug\ErvinLab2.csprojResolveAssemblyReference.cache
+E:\CMPE2800\ErvinLab2\ErvinLab2\obj\Debug\ErvinLab2.Form1.resources
+E:\CMPE2800\ErvinLab2\ErvinLab2\obj\Debug\ErvinLab2.Properties.Resources.resources
+E:\CMPE2800\ErvinLab2\ErvinLab2\obj\Debug\ErvinLab2.csproj.GenerateResource.Cache
+E:\CMPE2800\ErvinLab2\ErvinLab2\obj\Debug\ErvinLab2.exe
+E:\CMPE2800\ErvinLab2\ErvinLab2\obj\Debug\ErvinLab2.pdb
