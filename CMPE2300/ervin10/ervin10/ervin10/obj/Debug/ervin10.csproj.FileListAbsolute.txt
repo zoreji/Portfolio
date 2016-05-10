@@ -1,0 +1,12 @@
+C:\Users\ehernandez5\Desktop\Project Subversion\ervin10\ervin10\bin\Debug\ervin10.exe.config
+C:\Users\ehernandez5\Desktop\Project Subversion\ervin10\ervin10\bin\Debug\ervin10.exe
+C:\Users\ehernandez5\Desktop\Project Subversion\ervin10\ervin10\bin\Debug\ervin10.pdb
+C:\Users\ehernandez5\Desktop\Project Subversion\ervin10\ervin10\obj\Debug\ervin10.csprojResolveAssemblyReference.cache
+C:\Users\ehernandez5\Desktop\Project Subversion\ervin10\ervin10\obj\Debug\ervin10.Form1.resources
+C:\Users\ehernandez5\Desktop\Project Subversion\ervin10\ervin10\obj\Debug\ervin10.Properties.Resources.resources
+C:\Users\ehernandez5\Desktop\Project Subversion\ervin10\ervin10\obj\Debug\ervin10.csproj.GenerateResource.Cache
+C:\Users\ehernandez5\Desktop\Project Subversion\ervin10\ervin10\obj\Debug\ervin10.exe
+C:\Users\ehernandez5\Desktop\Project Subversion\ervin10\ervin10\obj\Debug\ervin10.pdb
+G:\Stuff\ervin10\ervin10\bin\Debug\ervin10.exe.config
+G:\Stuff\ervin10\ervin10\obj\Debug\ervin10.exe
+G:\Stuff\ervin10\ervin10\obj\Debug\ervin10.pdb

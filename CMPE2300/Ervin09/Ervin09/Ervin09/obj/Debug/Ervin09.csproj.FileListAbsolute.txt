@@ -1,0 +1,13 @@
+C:\Users\ehernandez5\Desktop\Project Subversion\Ervin09\Ervin09\bin\Debug\Ervin09.exe.config
+E:\Stuff\Ervin09\Ervin09\bin\Debug\Ervin09.exe.config
+C:\Users\ehernandez5\Desktop\Ervin09\Ervin09\bin\Debug\Ervin09.exe.config
+C:\Users\ehernandez5\Desktop\Ervin09\Ervin09\bin\Debug\Ervin09.exe
+C:\Users\ehernandez5\Desktop\Ervin09\Ervin09\bin\Debug\Ervin09.pdb
+C:\Users\ehernandez5\Desktop\Ervin09\Ervin09\bin\Debug\GDIDrawer.dll
+C:\Users\ehernandez5\Desktop\Ervin09\Ervin09\bin\Debug\GDIDrawer.xml
+C:\Users\ehernandez5\Desktop\Ervin09\Ervin09\obj\Debug\Ervin09.csprojResolveAssemblyReference.cache
+C:\Users\ehernandez5\Desktop\Ervin09\Ervin09\obj\Debug\Ervin09.Form1.resources
+C:\Users\ehernandez5\Desktop\Ervin09\Ervin09\obj\Debug\Ervin09.Properties.Resources.resources
+C:\Users\ehernandez5\Desktop\Ervin09\Ervin09\obj\Debug\Ervin09.csproj.GenerateResource.Cache
+C:\Users\ehernandez5\Desktop\Ervin09\Ervin09\obj\Debug\Ervin09.exe
+C:\Users\ehernandez5\Desktop\Ervin09\Ervin09\obj\Debug\Ervin09.pdb
