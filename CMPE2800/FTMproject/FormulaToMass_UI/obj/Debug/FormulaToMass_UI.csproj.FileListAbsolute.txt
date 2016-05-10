@@ -1,0 +1,13 @@
+E:\CMPE2800\FTMproject\FormulaToMass_UI\obj\Debug\FormulaToMass_UI.csprojResolveAssemblyReference.cache
+E:\CMPE2800\FTMproject\FormulaToMass_UI\obj\Debug\FormulaToMass_UI.UI_F_FTM.resources
+E:\CMPE2800\FTMproject\FormulaToMass_UI\obj\Debug\FormulaToMass_UI.Properties.Resources.resources
+E:\CMPE2800\FTMproject\FormulaToMass_UI\obj\Debug\FormulaToMass_UI.csproj.GenerateResource.Cache
+E:\CMPE2800\FTMproject\FormulaToMass_UI\bin\Debug\FormulaToMass_UI.exe.config
+E:\CMPE2800\FTMproject\FormulaToMass_UI\bin\Debug\FormulaToMass_UI.exe
+E:\CMPE2800\FTMproject\FormulaToMass_UI\bin\Debug\FormulaToMass_UI.pdb
+E:\CMPE2800\FTMproject\FormulaToMass_UI\bin\Debug\FormulaToMass_LINQ.dll
+E:\CMPE2800\FTMproject\FormulaToMass_UI\bin\Debug\FormulaToMass_REPO.dll
+E:\CMPE2800\FTMproject\FormulaToMass_UI\bin\Debug\FormulaToMass_LINQ.pdb
+E:\CMPE2800\FTMproject\FormulaToMass_UI\bin\Debug\FormulaToMass_REPO.pdb
+E:\CMPE2800\FTMproject\FormulaToMass_UI\obj\Debug\FormulaToMass_UI.exe
+E:\CMPE2800\FTMproject\FormulaToMass_UI\obj\Debug\FormulaToMass_UI.pdb

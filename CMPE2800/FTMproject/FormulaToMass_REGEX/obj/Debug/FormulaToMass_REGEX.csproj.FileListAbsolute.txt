@@ -1,0 +1,5 @@
+E:\CMPE2800\FTMproject\FormulaToMass_REGEX\obj\Debug\FormulaToMass_REGEX.csprojResolveAssemblyReference.cache
+E:\CMPE2800\FTMproject\FormulaToMass_REGEX\bin\Debug\FormulaToMass_REGEX.dll
+E:\CMPE2800\FTMproject\FormulaToMass_REGEX\bin\Debug\FormulaToMass_REGEX.pdb
+E:\CMPE2800\FTMproject\FormulaToMass_REGEX\obj\Debug\FormulaToMass_REGEX.dll
+E:\CMPE2800\FTMproject\FormulaToMass_REGEX\obj\Debug\FormulaToMass_REGEX.pdb

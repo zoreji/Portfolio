@@ -1,0 +1,5 @@
+E:\CMPE2800\FTMproject\FormulaToMass_LINQ\bin\Debug\FormulaToMass_LINQ.dll
+E:\CMPE2800\FTMproject\FormulaToMass_LINQ\bin\Debug\FormulaToMass_LINQ.pdb
+E:\CMPE2800\FTMproject\FormulaToMass_LINQ\obj\Debug\FormulaToMass_LINQ.csprojResolveAssemblyReference.cache
+E:\CMPE2800\FTMproject\FormulaToMass_LINQ\obj\Debug\FormulaToMass_LINQ.dll
+E:\CMPE2800\FTMproject\FormulaToMass_LINQ\obj\Debug\FormulaToMass_LINQ.pdb

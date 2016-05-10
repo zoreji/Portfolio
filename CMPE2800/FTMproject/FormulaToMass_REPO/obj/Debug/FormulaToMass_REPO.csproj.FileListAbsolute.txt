@@ -1,0 +1,5 @@
+E:\CMPE2800\FTMproject\FormulaToMass_REPO\bin\Debug\FormulaToMass_REPO.dll
+E:\CMPE2800\FTMproject\FormulaToMass_REPO\bin\Debug\FormulaToMass_REPO.pdb
+E:\CMPE2800\FTMproject\FormulaToMass_REPO\obj\Debug\FormulaToMass_REPO.csprojResolveAssemblyReference.cache
+E:\CMPE2800\FTMproject\FormulaToMass_REPO\obj\Debug\FormulaToMass_REPO.dll
+E:\CMPE2800\FTMproject\FormulaToMass_REPO\obj\Debug\FormulaToMass_REPO.pdb
