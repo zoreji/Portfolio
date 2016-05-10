@@ -1,0 +1,7 @@
+E:\CMPE2800\VU Meter\testStatus\bin\Debug\testStatus.dll
+E:\CMPE2800\VU Meter\testStatus\bin\Debug\testStatus.pdb
+E:\CMPE2800\VU Meter\testStatus\obj\Debug\testStatus.csprojResolveAssemblyReference.cache
+E:\CMPE2800\VU Meter\testStatus\obj\Debug\testStatus.testStatus.resources
+E:\CMPE2800\VU Meter\testStatus\obj\Debug\testStatus.csproj.GenerateResource.Cache
+E:\CMPE2800\VU Meter\testStatus\obj\Debug\testStatus.dll
+E:\CMPE2800\VU Meter\testStatus\obj\Debug\testStatus.pdb
