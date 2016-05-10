@@ -1,0 +1,12 @@
+C:\Users\Pius\Desktop\Bukkake\A06Ervin\A06Ervin\bin\Debug\A06Ervin.exe.config
+C:\Users\ehernandez5\Desktop\A06Ervin\A06Ervin\bin\Debug\A06Ervin.exe.config
+C:\Users\ehernandez5\Desktop\A06Ervin\A06Ervin\bin\Debug\A06Ervin.exe
+C:\Users\ehernandez5\Desktop\A06Ervin\A06Ervin\bin\Debug\A06Ervin.pdb
+C:\Users\ehernandez5\Desktop\A06Ervin\A06Ervin\bin\Debug\GDIDrawer.dll
+C:\Users\ehernandez5\Desktop\A06Ervin\A06Ervin\bin\Debug\GDIDrawer.xml
+C:\Users\ehernandez5\Desktop\A06Ervin\A06Ervin\obj\Debug\A06Ervin.csprojResolveAssemblyReference.cache
+C:\Users\ehernandez5\Desktop\A06Ervin\A06Ervin\obj\Debug\A06Ervin.Form1.resources
+C:\Users\ehernandez5\Desktop\A06Ervin\A06Ervin\obj\Debug\A06Ervin.Properties.Resources.resources
+C:\Users\ehernandez5\Desktop\A06Ervin\A06Ervin\obj\Debug\A06Ervin.csproj.GenerateResource.Cache
+C:\Users\ehernandez5\Desktop\A06Ervin\A06Ervin\obj\Debug\A06Ervin.exe
+C:\Users\ehernandez5\Desktop\A06Ervin\A06Ervin\obj\Debug\A06Ervin.pdb

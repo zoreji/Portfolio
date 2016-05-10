@@ -1,0 +1,13 @@
+C:\Users\ehernandez5\Desktop\CMPE2300\ehernandezLab01\ehernandezLab01\bin\Debug\ehernandezLab01.exe.config
+C:\Users\ehernandez5\Desktop\Project Subversion\ehernandezLab01\ehernandezLab01\bin\Debug\ehernandezLab01.exe.config
+C:\Users\ehernandez5\Desktop\Project Subversion\ehernandezLab01\ehernandezLab01\bin\Debug\ehernandezLab01.exe
+C:\Users\ehernandez5\Desktop\Project Subversion\ehernandezLab01\ehernandezLab01\bin\Debug\ehernandezLab01.pdb
+C:\Users\ehernandez5\Desktop\Project Subversion\ehernandezLab01\ehernandezLab01\obj\Debug\ehernandezLab01.csprojResolveAssemblyReference.cache
+C:\Users\ehernandez5\Desktop\Project Subversion\ehernandezLab01\ehernandezLab01\obj\Debug\ehernandezLab01.Form1.resources
+C:\Users\ehernandez5\Desktop\Project Subversion\ehernandezLab01\ehernandezLab01\obj\Debug\ehernandezLab01.Properties.Resources.resources
+C:\Users\ehernandez5\Desktop\Project Subversion\ehernandezLab01\ehernandezLab01\obj\Debug\ehernandezLab01.csproj.GenerateResource.Cache
+C:\Users\ehernandez5\Desktop\Project Subversion\ehernandezLab01\ehernandezLab01\obj\Debug\ehernandezLab01.exe
+C:\Users\ehernandez5\Desktop\Project Subversion\ehernandezLab01\ehernandezLab01\obj\Debug\ehernandezLab01.pdb
+E:\ehernandezLab01\ehernandezLab01\bin\Debug\ehernandezLab01.exe.config
+E:\ehernandezLab01\ehernandezLab01\obj\Debug\ehernandezLab01.exe
+E:\ehernandezLab01\ehernandezLab01\obj\Debug\ehernandezLab01.pdb
