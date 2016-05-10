@@ -1,0 +1,43 @@
+﻿
+1. All players place an ante in the pot.
+2. Each player is dealt one card face down and one face up, and there is a betting round.
+3. Each player is dealt a third card face up. There is a second betting round.
+4. Each player is dealt a fourth card face up. There is a third betting round.
+5. Each player is dealt a fifth and card face up. There is a fourth betting round.
+6. Surviving players show their cards and the best five-card hand wins the pot.
+
+
+
+
+1 Royal Flush
+	ace to ten: same suit
+2 straight flush
+	five cards sequentially in order: same suit
+3 four of a kind
+	four of the same value card
+4 full house
+	three same value card + two other value cards
+5 flush
+	five card: same suit
+6 straight
+	five value card sequentially in order
+7 three of a kind
+	three same value card
+8 two pair
+	two same value card + two same value card
+9 pair
+	two same value card
+10 highest card
+	highest values card in hand
+
+
+Create	a	method	to	score	each	hand.	If	number	of	pairs	in	a	hand	is	0,	then	test	for	
+StraightFlush,	Straight,	and	Flush.	If	none	are	true,	then	the	hand	is	worth	Nothing.
+Number	of	pairs	is	6,	then	the	hand	is	four	of	a	kind.
+Number	of	pairs	is	4,	then	the	hand	is	FullHouse.
+Number	of	pairs	is	3,	then	the	hand	is	three	of	a	kind
+Number	of	pairs	is	2,	then	the	hand	is	Two	Pair
+Number	of	pairs	is	1,	then	the	hand	is	One	Pair.
+
+
+

@@ -1,0 +1,6 @@
+E:\Projects\CardStack\CardStack\bin\Debug\CardStack.exe.config
+E:\Projects\CardStack\CardStack\bin\Debug\CardStack.exe
+E:\Projects\CardStack\CardStack\bin\Debug\CardStack.pdb
+E:\Projects\CardStack\CardStack\obj\Debug\CardStack.csprojResolveAssemblyReference.cache
+E:\Projects\CardStack\CardStack\obj\Debug\CardStack.exe
+E:\Projects\CardStack\CardStack\obj\Debug\CardStack.pdb

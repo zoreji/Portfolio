@@ -1,0 +1,6 @@
+E:\Projects\FiveStudPoker\FiveHandStudPoker\bin\Debug\FiveHandStudPoker.exe.config
+E:\Projects\FiveStudPoker\FiveHandStudPoker\bin\Debug\FiveHandStudPoker.exe
+E:\Projects\FiveStudPoker\FiveHandStudPoker\bin\Debug\FiveHandStudPoker.pdb
+E:\Projects\FiveStudPoker\FiveHandStudPoker\obj\Debug\FiveHandStudPoker.csprojResolveAssemblyReference.cache
+E:\Projects\FiveStudPoker\FiveHandStudPoker\obj\Debug\FiveHandStudPoker.exe
+E:\Projects\FiveStudPoker\FiveHandStudPoker\obj\Debug\FiveHandStudPoker.pdb
